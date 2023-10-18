@@ -1,0 +1,24 @@
+{
+  "name": "tdd-node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src/** test/** --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovitordev/tdd-node-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaovitordev/tdd-node-api/issues"
+  },
+  "homepage": "https://github.com/joaovitordev/tdd-node-api#readme",
+  "devDependencies": {
+    "eslint": "^8.51.0"
+  }
+}
